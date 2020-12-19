@@ -1,6 +1,6 @@
 ---
 title: "What you will need"
-description: 1
+description: 2
 ---
 <h2>
 	<strong>Hardware Requirements</strong>

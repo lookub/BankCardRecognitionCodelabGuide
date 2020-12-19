@@ -98,7 +98,7 @@ description: 15
 <p><strong>Note: Once recognition is successful, you will see the following changes on the main screen : </strong></p>
 </aside>
 <center>
-<img style="width: 400.00px " src="../assets/ss.jpg" onclick="imageclick(src)">
+<img style="width: 400.00px " src="assets/ss.jpg" onclick="imageclick(src)">
 </center>
 <p><strong>11.Invoke copyTextToClipboard function with view param when click the R.id.tvCardNumberAll or click other textViews thats are showing recognised card numbers partially</strong></p>
 <pre><div id="copy-button13" class="copy-btn" title="Copy" onclick="copyCode(this.id)"></div><code>

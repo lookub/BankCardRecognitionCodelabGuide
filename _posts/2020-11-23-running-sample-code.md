@@ -12,5 +12,5 @@ description: 2
 	<li>place the card in the rectangle and wait for it to recognize.</li>
 </ol>
 <center>
-<img style="width: 400.00px " src="../assets/ss.jpg" onclick="imageclick(src)">
+<img style="width: 400.00px " src="assets/ss.jpg" onclick="imageclick(src)">
 </center>
